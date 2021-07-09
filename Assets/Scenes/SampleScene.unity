@@ -1327,7 +1327,7 @@ MonoBehaviour:
   <MaxSpeed>k__BackingField: 3
   <TimeToMaxAccelerate>k__BackingField: 1
   <DistanceToDecelerate>k__BackingField: 2
-  <RotateSpeed>k__BackingField: 0.3
+  <RotateSpeed>k__BackingField: 0.2
 --- !u!114 &898087832
 MonoBehaviour:
   m_ObjectHideFlags: 0
